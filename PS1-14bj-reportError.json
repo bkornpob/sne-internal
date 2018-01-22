@@ -1,0 +1,20 @@
+### IMPORTANT: A FILE FOR THIS EVENT ALREADY EXISTS IN THE REPOSITORY.
+### Due to limitations of the GitHub URL interface, you must copy the contents
+### of this file into the existing JSON file for this event in order to edit it
+### The location of the file to paste into is located at:
+### https://github.com/astrocatalogs/sne-internal/edit/master/PS1-14bj.json
+### COMMITTING THE FILE ON THIS PAGE WILL RESULT IN A "FILE ALREADY EXISTS" ERROR.
+### Delete all lines preceded by a # before committing any changes to the file
+### located at the above URL.
+{
+	"PS1-14bj":{
+		"name":"PS1-14bj",
+		"errors":[
+			{
+				"value":"2016ApJ...831..144L",
+				"kind":"bibcode",
+				"extra":"ra"
+			}
+		]
+	}
+}
